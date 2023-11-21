@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sargam, A QA by Profession
+- 👋 Hi, I’m Sargam, QA by Profession
 - 👀 I’m interested in learning new things about testing, photography, and painting.
 - 🌱 I’m currently learning Selenium with Java
 - 💞️ I’m looking to collaborate on the depth of automation testing.
