@@ -20,23 +20,22 @@
 
 
 <br/> 
-<h2 align="center">
+<h2>
   🌐 Language and Tools:
 </h2>
-<div class="image-row" display: flex;>
-<img src="Java_programming_language_logo.svg.png" alt="Java Logo" width="50" height="50">
-<img src="download.png" alt="SQL" width="50" height="50">
-<img src="images.jpeg" alt="HTML" width="50" height="50">
-</div>
 
+<code style="display: flex; justify-content: center; align-items: center;"><img height="40" width="40" src="Java_programming_language_logo.svg.png"/></code>
+<code style="display: flex; justify-content: center; align-items: center;" ><img height="40" width="40" src="download.png"/></code>
+<code style="display: flex; justify-content: center; align-items: center;"><img height="40" width="40" src="images.jpeg"/></code>
 
 <br/>
-<div class="image-row" display: flex;>
-<img src="download (2).png" alt="JIRA" width="50" height="50">
-<img src="channels4_profile.jpeg" alt="Postman" width="50" height="50">
-<img src="download (1).png" alt="JMETER" width="50" height="50">
-<img src="download (3).png" alt="SWAGGER" width="50" height="50">
+
+<code style="display: flex; justify-content: center; align-items: center;"><img height="40" width="40" src="download (2).png"/></code>
+<code style="display: flex; justify-content: center; align-items: center;"><img height="40" width="40" src="channels4_profile.jpeg"/></code>
+<code style="display: flex; justify-content: center; align-items: center;"><img height="40" width="40" src="download (1).png"/></code>
+<code style="display: flex; justify-content: center; align-items: center;"><img height="40" width="40" src="download (3).png"/></code>
 </div>
+
 
 <!---
 Sargamp16/Sargamp16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
