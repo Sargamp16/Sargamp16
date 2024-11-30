@@ -44,14 +44,15 @@
 <h2>&#x1F516; Extensions Recommended </h2>
 <h3> Video Recording: </h3>
  JAM : An open-source JavaScript framework for media applications that supports real-time video capture, along with network and console logging capabilities. </br>
+
  
  BirdsEatBugs : A premium, lightweight library for video processing (e.g., stabilization and noise reduction) that includes automated test scripts, supporting multiple languages and tools. </br>
  Vidyard : A professional video hosting and analytics platform for uploading, managing, and analyzing videos, including those with voice recordings.
 
- <h3>Automated Test Case Creator</h3>
+ <h3>Automated Test Case Generator:</h3>
  TestCraft : It is a no-code test automation tool that enables users to create, execute, and maintain automated tests for web applications without writing code.
 
- <h3>Responsive View</h3>
+ <h3>Responsive View:</h3>
  Mobile Simulator : The Mobile Simulator extension allows you to simulate and test mobile device interactions directly within your browser for responsive web design and functionality.
  
 
