@@ -35,6 +35,7 @@
 <code style="display: flex; justify-content: center; align-items: center;"><img height="40" width="40" src="channels4_profile.jpeg"/></code>
 <code style="display: flex; justify-content: center; align-items: center;"><img height="40" width="40" src="download (1).png"/></code>
 <code style="display: flex; justify-content: center; align-items: center;"><img height="40" width="40" src="download (3).png"/></code>
+<code style="display: flex; justify-content: center; align-items: center;"><img height="40" width="40" src="slack.png"/></code>
 </div>
 
 
