@@ -39,6 +39,7 @@
 <code style="display: flex; justify-content: center; align-items: center;"><img height="40" width="40" src="Slack-logo.jpg"/></code>
 </div>
 
+<h2>&#x1F469; Friendly Extensions To Use </h2>
 
 <!---
 Sargamp16/Sargamp16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
