@@ -6,10 +6,10 @@
 <br/>
 <br/>
 
-- 👋 Hi, I’m Sargam, QA by Profession having an experience of 3+ years in testing.
-- 💼 Expertise in creating test plans, executing test cases.
+- 👋 Hi, I’m Sargam, QA by Profession having an experience of 4+ years in testing.
+- 💼 Expertise in creating test plans, executing test cases using Azure Devops Platform.
 - 📈 Worked on 30+ live projects, and performed both UI and functional testing on them. 
-- 🌱 I’m currently learning and working with Selenium using Java
+- 🌱 I’m currently learning and working with Selenium using Java.
 - 👯 I’m looking to collaborate on the depth of automation testing.
 - 👀 I’m interested in learning new things about testing, photography, and painting.
 - 📫 How to reach me:
