@@ -25,18 +25,18 @@
   🌐 Language and Tools:
 </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <br/>
 </p>
 <p align="center"> AI Tools - ChatGPT
 <p align="center"> API - Postman , Swagger
-<p align="center"> Programming Languages - Java
+<p align="center"> Programming Languages - Java and JavaScript(Basic)
 <p align="center">Test Management Tool - AzureDevOps(ADO)
-<p align="center">Automation - Selenium
+<p align="center">Automation - Playwright and Selenium (Basic)
 <p align="center">Project Management Tools - JIRA, Trello, Asana
-<p align="center">Load Testin Tool - JMeter
+<p align="center">Load Testing Tool - JMeter
  </p>
 </div>
 
