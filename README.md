@@ -34,7 +34,7 @@
 <p align="center"> API - Postman , Swagger
 <p align="center"> Programming Languages - Java and JavaScript(Basic)
 <p align="center">Test Management Tool - AzureDevOps(ADO)
-<p align="center">Automation - Playwright and Selenium (Basic)
+<p align="center">Automation - Playwright with JavaScript and Selenium with Java (Basic)
 <p align="center">Project Management Tools - JIRA, Trello, Asana
 <p align="center">Load Testing Tool - JMeter
  </p>
