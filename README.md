@@ -25,7 +25,7 @@
   🌐 Language and Tools:
 </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-E34F26?style=for-the-badge&logo=Playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <br/>
