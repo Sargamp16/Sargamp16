@@ -12,6 +12,8 @@
 - 🌱 I’m currently learning and working with Plawwright using JavaScript.  <br/>
 - 👯 I’m looking to collaborate on the depth of automation testing.  <br/>
 - 👀 I’m interested in learning new things about testing, photography, and painting.  <br/>
+- ✈️ When I'm not coding, I love capturing the world through travel shorts. <br>
+    You can follow me on : https://www.youtube.com/@thenomadicvoice16 <br>
 - 📫 How to reach me:
      [LinkedIn](https://www.linkedin.com/in/sargampanwar/)
 </p>
