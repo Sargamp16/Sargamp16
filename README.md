@@ -23,15 +23,44 @@
 
 
 <br/> 
-<h2 align="center">
-  🌐 Language and Tools:
-</h2>
-<p align="center">
-<img src="https://img.shields.io/badge/Playwright-E34F26?style=for-the-badge&logo=Playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<table>
+<tr>
+<td valign="top" width="33%">
+
+<h3 align="center">🧪 Testing & QA</h3>
 <br/>
-</p>
+<div align="center">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+<h3 align="center">💻 Development</h3>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+<h3 align="center">⚙️ DevOps & Tools</h3>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+
+
+
 <p align="center"> AI Tools - ChatGPT
 <p align="center"> API - Postman , Swagger
 <p align="center"> Programming Languages - Java and JavaScript(Basic)
