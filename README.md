@@ -162,6 +162,19 @@
 
 </div>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> Let's Connect!
+
+<div align="center">
+
+**I'm always interested in collaborating on exciting projects!**
+
+<a href="https://github.com/Sargamp16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+📫 **Reach out** — I'd love to hear from you!
+
+</div>
+
+
 <!---
 Sargamp16/Sargamp16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
