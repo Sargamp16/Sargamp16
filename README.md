@@ -19,9 +19,6 @@
 </p>
 <br/>
 
-# <h2 align="center">&#x1F469; Women_in_Test </h2>
-
-
 <br/> 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Tech Stack 
@@ -64,22 +61,12 @@
 </td>
 </tr>
 </table>
-
-
-
-
-<p align="center"> AI Tools - ChatGPT
-<p align="center"> API - Postman , Swagger
-<p align="center">Test Management Tool - AzureDevOps(ADO)
-<p align="center">Automation - Playwright with JavaScript and Selenium with Java (Basic)
-<p align="center">Project Management Tools - JIRA, Trello, Asana
-<p align="center">Load Testing Tool - JMeter
  </p>
 </div>
 
 <br/>
 
-<h2 align="center">&#x1F516; Extensions Recommended </h2>
+<h2>&#x1F516; Extensions Recommended </h2>
 <h3 align="center" > Video Recording: </h3>
  JAM : An open-source JavaScript framework for media applications that supports real-time video capture, along with network and console logging capabilities. </br>
 
