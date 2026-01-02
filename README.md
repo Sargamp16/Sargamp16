@@ -66,6 +66,64 @@
 
 <br/>
 
+
+
+### 📊 Top Repositories
+
+<table>
+<thead>
+<tr>
+<th>🚀 Project</th>
+<th>📝 Description</th>
+<th>⭐ Stars</th>
+<th>🍴 Forks</th>
+<th>💻 Language</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/Sargamp16/Playwright-Learnings"><b>Playwright-Learnings</b></a></td>
+<td>Playwright Learnings</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Sargamp16/Sargamp16"><b>Sargamp16</b></a></td>
+<td>Config files for my GitHub profile.</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Sargamp16/Get-Started-with-Playwright"><b>Get-Started-with-Playwright</b></a></td>
+<td>No description</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/TypeScript-gray?style=flat-square" alt="language"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Sargamp16/Selenium_Repo"><b>Selenium_Repo</b></a></td>
+<td>No description</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Sargamp16/Java_Code"><b>Java_Code</b></a></td>
+<td>No description</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
+</tr>
+</tbody>
+</table>
+
+<p align="center">
+  <i>💡 Total of <b>8</b> repositories</i>
+</p>
+
+<br/> 
 <h2>&#x1F516; Extensions Recommended </h2>
 <h3 align="center" > Video Recording: </h3>
  JAM : An open-source JavaScript framework for media applications that supports real-time video capture, along with network and console logging capabilities. </br>
