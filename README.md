@@ -23,6 +23,9 @@
 
 
 <br/> 
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Tech Stack
+
 <table>
 <tr>
 <td valign="top" width="33%">
