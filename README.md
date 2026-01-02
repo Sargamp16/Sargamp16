@@ -35,6 +35,10 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="jmeter"/>
+<img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white" alt="browserstack"/>
+<img src="https://img.shields.io/badge/LambdaTest-0089CF?style=for-the-badge&logo=lambdatest&logoColor=white" alt="lambdatest"/>
 </div>
 
 </td>
@@ -44,7 +48,6 @@
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </div>
 
@@ -55,6 +58,7 @@
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
 </div>
 
 </td>
@@ -66,7 +70,6 @@
 
 <p align="center"> AI Tools - ChatGPT
 <p align="center"> API - Postman , Swagger
-<p align="center"> Programming Languages - Java and JavaScript(Basic)
 <p align="center">Test Management Tool - AzureDevOps(ADO)
 <p align="center">Automation - Playwright with JavaScript and Selenium with Java (Basic)
 <p align="center">Project Management Tools - JIRA, Trello, Asana
