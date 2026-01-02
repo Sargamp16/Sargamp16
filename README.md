@@ -139,6 +139,7 @@
  Mobile Simulator : The Mobile Simulator extension allows you to simulate and test mobile device interactions directly within your browser for responsive web design and functionality.
 
  <br/>
+ 
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Profile Summary
 
 <div align="center">
