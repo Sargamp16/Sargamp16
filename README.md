@@ -34,8 +34,6 @@
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="jmeter"/>
-<img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white" alt="browserstack"/>
-<img src="https://img.shields.io/badge/LambdaTest-0089CF?style=for-the-badge&logo=lambdatest&logoColor=white" alt="lambdatest"/>
 </div>
 
 </td>
